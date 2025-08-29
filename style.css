@@ -1,4 +1,7 @@
 body {
-    color: pink;
+    color: white;
     background: pink;
+    margin: 0px;
+    font-family: "Times New Roman", serif;
+    margin-bottom: 100px;
 }
